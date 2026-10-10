@@ -1,0 +1,39 @@
+MCFM05 Reborn v1.0 FINAL — editor en tiempo real para Football Manager 2005
+================================================================
+
+QUÉ ES
+  Edita el juego MIENTRAS está abierto (memoria), sin tocar los archivos de la partida.
+  Nada se cambia hasta que pulse "Guardar en el juego". Guarde la partida antes de editar.
+
+REQUISITOS
+  - Windows (probado en Windows 10/11, 64 bits).
+  - Football Manager 2005 versión 5.0.2 (muestra "5.0.2" en la pantalla inicial), versión no-CD/"win10fix".
+    Se mapeó en esa versión; en otra (5.0.0, 5.0.5) muchas cosas pueden no funcionar.
+  - Python 3 (3.8 o más nuevo), 32 o 64 bits, con Tkinter (viene por defecto en el instalador de python.org).
+    Instálelo desde https://www.python.org/downloads/ y marque "Add python.exe to PATH".
+  - Permisos de administrador (el programa los pide al abrirse).
+
+CÓMO USARLO
+  1. Descomprima la carpeta en cualquier sitio (p. ej. D:\Apps\MCFM05Reborn).
+  2. Abra FM 2005 y cargue la partida.
+  3. Haga doble clic en "MCFM05 Reborn.bat" (acepte la petición de administrador).
+  4. Pulse "Cargar del juego". Edite y luego "Guardar en el juego".
+  Idioma: esquina superior derecha (inglés por defecto; portugués y español). Reinicie el programa tras cambiarlo.
+
+ARCHIVOS QUE EL PROGRAMA CREA EN SU PROPIA CARPETA
+  config.json (idioma), janela.json (tamaño de ventana), favoritos.json, congelados.json, copia de atributos, erro.log.
+
+PROBLEMAS COMUNES
+  - "fm2005.exe no está abierto": abra el juego y cargue la partida antes de "Cargar del juego".
+  - No pasa nada al abrir el .bat: Python no instalado o sin "Add to PATH". Pruebe en cmd: python --version
+  - La ventana no se abre y hay un erro.log en la carpeta: envíe erro.log al autor.
+  - 255 en campos 0-20 corrompe el juego: con "sin límites" use como máximo 127.
+  - Tras marcar "retirado del fútbol internacional" o un traspaso que avisó "lista reasignada":
+    guarde la partida y recárguela antes de seguir jugando.
+
+VERSIÓN OFICIAL
+  Creado por g0ldenboy & Claude AI. El botón "created by..." muestra la versión y la huella SHA-256 de los archivos;
+  compárela con la publicada por el autor. Cualquier copia modificada no es la oficial.
+
+AVISO
+  Úselo bajo su propia responsabilidad. Conserve una copia de la partida antes de editar.

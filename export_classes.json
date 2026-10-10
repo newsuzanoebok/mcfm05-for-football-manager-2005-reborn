@@ -1,0 +1,1630 @@
+{
+"0xc4d6c4": [
+"PLAYER",
+1024
+],
+"0xc4e0ac": [
+"PERSON",
+1024
+],
+"0xc4e5ac": [
+"VIRTUAL_PLAYER",
+1024
+],
+"0xc895bc": [
+"COMP",
+256
+],
+"0xcaaca4": [
+"STAGE",
+2048
+],
+"0xcaad94": [
+"LEAGUE_STAGE",
+2048
+],
+"0xcad8d4": [
+"TEAM_BASE",
+768
+],
+"0xcb33a4": [
+"FULL_CONTRACT",
+512
+],
+"0xe20788": [
+"CONFIDENCE",
+512
+],
+"0xe20794": [
+"CLUB_CONFIDENCE",
+512
+],
+"0xe2fc60": [
+"RETIREMENT_CONSIDERATION",
+32
+],
+"0xe2fd14": [
+"PERSON_DATA",
+64
+],
+"0xe345e4": [
+"LOAN_CONTRACT",
+512
+],
+"0xe358dc": [
+"PLAYING_DATA",
+256
+],
+"0xe487ec": [
+"TRIAL_CONTRACT",
+512
+],
+"0xe48a54": [
+"LEAGUE_CONTRACT",
+512
+],
+"0xe49a8c": [
+"NON_PLAYER",
+1024
+],
+"0xe4ab3c": [
+"RETIRED_PERSON",
+1024
+],
+"0xe4b43c": [
+"VIRTUAL_NON_PLAYER",
+1024
+],
+"0xe4b95c": [
+"ACTUAL_PERSON",
+1024
+],
+"0xe4be5c": [
+"YOUTH_PLAYER",
+1024
+],
+"0xe4cd3c": [
+"TEAM_CONTAINER",
+1024
+],
+"0xe53c0c": [
+"TEAM",
+768
+],
+"0xe54234": [
+"CLUB_FINANCE_BASE",
+256
+],
+"0xe54384": [
+"MLS_FINANCE_BASE",
+256
+],
+"0xe546ec": [
+"CLUB_FINANCE",
+256
+],
+"0xe54d04": [
+"CLUB",
+1024
+],
+"0xe551c4": [
+"ACTUAL_PLAYER",
+1024
+],
+"0xe557a4": [
+"NATION",
+1024
+],
+"0xe56704": [
+"CONTRACT",
+512
+],
+"0xe56f24": [
+"HUMAN_NON_PLAYER",
+1024
+],
+"0xe61734": [
+"NATIONAL_TEAM",
+768
+],
+"0xe61a6c": [
+"ACTUAL_NON_PLAYER",
+1024
+],
+"0xe6379c": [
+"OFFICIAL",
+1024
+],
+"0xe63c24": [
+"ACTUAL_PLAYER_AND_NON_PLAYER",
+1024
+],
+"0xe6551c": [
+"LEAGUE_BODY_CLUB",
+1024
+],
+"0xe65d8c": [
+"CLIENT_PERSON",
+1024
+],
+"0xe66948": [
+"PLAYER_STATS",
+128
+],
+"0xe6a37c": [
+"CUP_STAGE",
+2048
+],
+"0xe6a704": [
+"ACTUAL_COMP",
+256
+],
+"0xe6d53c": [
+"UNDER_X_COMP",
+256
+],
+"0xe71294": [
+"FRIENDLY_COMP",
+256
+],
+"0xe72254": [
+"EUR_CHAMPIONS_LEAGUE",
+256
+],
+"0xe7247c": [
+"EUR_INTERTOTO_CUP",
+256
+],
+"0xe726a4": [
+"EUR_SUPER_CUP",
+256
+],
+"0xe728cc": [
+"EUR_UEFA_CUP",
+256
+],
+"0xe72af4": [
+"EUR_ROYAL_LEAGUE",
+256
+],
+"0xe7344c": [
+"GROUP_STAGE",
+2048
+],
+"0xe74b24": [
+"VIRTUAL_GROUP_STAGE",
+2048
+],
+"0xe74bcc": [
+"VIRTUAL_LEAGUE_STAGE",
+2048
+],
+"0xe74cac": [
+"VIRTUAL_CUP_STAGE",
+2048
+],
+"0xe74eec": [
+"SVN_FIRST",
+256
+],
+"0xe75114": [
+"SVN_SECOND",
+256
+],
+"0xe7533c": [
+"SVN_CUP",
+256
+],
+"0xe756a4": [
+"ISL_PREM",
+256
+],
+"0xe758cc": [
+"ISL_FIRST",
+256
+],
+"0xe75af4": [
+"ISL_CUP",
+256
+],
+"0xe75d1c": [
+"ISL_UPPER_LEAGUE_CUP",
+256
+],
+"0xe75f44": [
+"ISL_LOWER_LEAGUE_CUP",
+256
+],
+"0xe7617c": [
+"URU_FIRST",
+256
+],
+"0xe763b4": [
+"URU_SECOND",
+256
+],
+"0xe765ec": [
+"BLR_HIGHEST",
+256
+],
+"0xe76824": [
+"BLR_FIRST",
+256
+],
+"0xe76a4c": [
+"BLR_CUP",
+256
+],
+"0xe76c84": [
+"CHI_FIRST",
+256
+],
+"0xe76eac": [
+"CHI_FIRST_B",
+256
+],
+"0xe770d4": [
+"CHI_PRECOPASUD",
+256
+],
+"0xe7736c": [
+"PER_FIRST",
+256
+],
+"0xe775bc": [
+"ROM_CUP",
+256
+],
+"0xe777e4": [
+"ROM_FIRST",
+256
+],
+"0xe77a0c": [
+"ROM_SUPER_CUP",
+256
+],
+"0xe77c34": [
+"ROM_SECOND_GROUP",
+256
+],
+"0xe77e5c": [
+"ROM_SECOND",
+256
+],
+"0xe780a4": [
+"MAL_SUPER",
+256
+],
+"0xe782cc": [
+"MAL_FA_CUP",
+256
+],
+"0xe784f4": [
+"MAL_CUP",
+256
+],
+"0xe7871c": [
+"MAL_CHARITY",
+256
+],
+"0xe78944": [
+"MAL_PREMIER_DIVISION",
+256
+],
+"0xe78b6c": [
+"MAL_PREMIER",
+256
+],
+"0xe78db4": [
+"BUL_A",
+256
+],
+"0xe78fdc": [
+"BUL_B",
+256
+],
+"0xe79204": [
+"BUL_CUP",
+256
+],
+"0xe7942c": [
+"BUL_SUPER_CUP",
+256
+],
+"0xe79654": [
+"BUL_V_GROUPS_REGION",
+256
+],
+"0xe7987c": [
+"BUL_V_GROUPS",
+256
+],
+"0xe79ac4": [
+"HUN_FIRST",
+256
+],
+"0xe79cec": [
+"HUN_FIRST_B",
+256
+],
+"0xe79f14": [
+"HUN_CUP",
+256
+],
+"0xe7a13c": [
+"HUN_SUPER_CUP",
+256
+],
+"0xe7a374": [
+"UKR_HIGH",
+256
+],
+"0xe7a59c": [
+"UKR_FIRST",
+256
+],
+"0xe7a7c4": [
+"UKR_CUP",
+256
+],
+"0xe7a9ec": [
+"UKR_SUPER_CUP",
+256
+],
+"0xe7ac14": [
+"UKR_SECOND_DIVISION",
+256
+],
+"0xe7ae3c": [
+"UKR_SECOND",
+256
+],
+"0xe7b084": [
+"IDN_PREM",
+256
+],
+"0xe7b2bc": [
+"IDN_FIRST_REGION",
+256
+],
+"0xe7b4e4": [
+"IDN_FIRST",
+256
+],
+"0xe7b72c": [
+"SLV_FIRST",
+256
+],
+"0xe7b954": [
+"SLV_CUP",
+256
+],
+"0xe7bb7c": [
+"SLV_SUPER_CUP",
+256
+],
+"0xe7bda4": [
+"SLV_SECOND",
+256
+],
+"0xe7bfdc": [
+"COL_FIRST",
+256
+],
+"0xe7c204": [
+"COL_SECOND",
+256
+],
+"0xe7c43c": [
+"HON_FA_CUP",
+256
+],
+"0xe7c664": [
+"HON_FIRST",
+256
+],
+"0xe7c88c": [
+"HON_LEAGUE_CUP",
+256
+],
+"0xe7cab4": [
+"HON_CHALLENGE_SHIELD",
+256
+],
+"0xe7ccdc": [
+"HON_CHAMPIONS_CUP",
+256
+],
+"0xe7cf14": [
+"SIN_CUP",
+256
+],
+"0xe7d13c": [
+"SIN_LEAGUE",
+256
+],
+"0xe7d374": [
+"IND_FIRST",
+256
+],
+"0xe7d59c": [
+"IND_DURAND_CUP",
+256
+],
+"0xe7d7c4": [
+"IND_FED_CUP",
+256
+],
+"0xe7d9fc": [
+"WAL_PRM",
+256
+],
+"0xe7dc8c": [
+"WAL_PRM_CUP",
+256
+],
+"0xe7deb4": [
+"WAL_LEAGUE_CUP",
+256
+],
+"0xe7e0dc": [
+"WAL_CUP",
+256
+],
+"0xe7e314": [
+"ISR_CUP",
+256
+],
+"0xe7e53c": [
+"ISR_PREM",
+256
+],
+"0xe7e764": [
+"ISR_NATIONAL",
+256
+],
+"0xe7e98c": [
+"ISR_PRM_TOTO_CUP",
+256
+],
+"0xe7ebb4": [
+"ISR_FIRST_TOTO_CUP",
+256
+],
+"0xe7edec": [
+"MEX_FIRST",
+256
+],
+"0xe7f01c": [
+"MEX_FIRST_A",
+256
+],
+"0xe7f244": [
+"MEX_PREPRELIBER",
+256
+],
+"0xe7f47c": [
+"SWI_FIRST",
+256
+],
+"0xe7f6a4": [
+"SWI_SECOND",
+256
+],
+"0xe7f8cc": [
+"SWI_CUP",
+256
+],
+"0xe7faf4": [
+"SWI_FIRST_LEAGUE_GROUP",
+256
+],
+"0xe7fd1c": [
+"SWI_FIRST_LEAGUE",
+256
+],
+"0xe7ff64": [
+"AUT_CUP",
+256
+],
+"0xe8018c": [
+"AUT_FIRST",
+256
+],
+"0xe803b4": [
+"AUT_PREM",
+256
+],
+"0xe805dc": [
+"AUT_SUPER_CUP",
+256
+],
+"0xe80814": [
+"YUG_CUP",
+256
+],
+"0xe80a3c": [
+"YUG_FIRST",
+256
+],
+"0xe80c64": [
+"YUG_THIRD_DIVISION",
+256
+],
+"0xe80e8c": [
+"YUG_SECOND_DIVISION",
+256
+],
+"0xe810b4": [
+"YUG_SECOND",
+256
+],
+"0xe812ec": [
+"YUG_THIRD",
+256
+],
+"0xe81534": [
+"CZE_CUP",
+256
+],
+"0xe8175c": [
+"CZE_FIRST",
+256
+],
+"0xe81984": [
+"CZE_SECOND",
+256
+],
+"0xe81bac": [
+"CZE_THIRD_DIVISION",
+256
+],
+"0xe81dd4": [
+"CZE_FOURTH_DIVISION",
+256
+],
+"0xe81ffc": [
+"CZE_FOURTH",
+256
+],
+"0xe82234": [
+"CZE_THIRD",
+256
+],
+"0xe8247c": [
+"RUS_CUP",
+256
+],
+"0xe826a4": [
+"RUS_LEAGUE_CUP",
+256
+],
+"0xe828cc": [
+"RUS_FIRST",
+256
+],
+"0xe82af4": [
+"RUS_PREM",
+256
+],
+"0xe82d1c": [
+"RUS_SUPER_CUP",
+256
+],
+"0xe82f44": [
+"RUS_SECOND_REGION",
+256
+],
+"0xe8316c": [
+"RUS_SECOND",
+256
+],
+"0xe833b4": [
+"POL_FIRST",
+256
+],
+"0xe835dc": [
+"POL_FA_CUP",
+256
+],
+"0xe83804": [
+"POL_SECOND",
+256
+],
+"0xe83a3c": [
+"IRE_FIRST",
+256
+],
+"0xe83c64": [
+"IRE_PREM",
+256
+],
+"0xe83e8c": [
+"IRE_SENIOR_CHAL_CUP",
+256
+],
+"0xe840b4": [
+"IRE_PRESIDENT_CUP",
+256
+],
+"0xe842dc": [
+"IRE_LEINSTER_CUP",
+256
+],
+"0xe84504": [
+"IRE_MUNSTER_CUP",
+256
+],
+"0xe8472c": [
+"IRE_LEAGUE_CUP",
+256
+],
+"0xe84954": [
+"IRE_CROSS_BORDER",
+256
+],
+"0xe84b7c": [
+"IRE_ALL_IRELAND",
+256
+],
+"0xe84de4": [
+"BRA_NAT_FIRST",
+256
+],
+"0xe8500c": [
+"BRA_NAT_SECOND",
+256
+],
+"0xe85234": [
+"BRA_NAT_THIRD",
+256
+],
+"0xe8545c": [
+"BRA_CUP",
+256
+],
+"0xe85684": [
+"BRA_STATE_LEAGUE",
+256
+],
+"0xe858ac": [
+"BRA_STATE_PARAIBA",
+256
+],
+"0xe85ad4": [
+"BRA_STATE_PARANA",
+256
+],
+"0xe85cfc": [
+"BRA_STATE_PERNAM",
+256
+],
+"0xe85f24": [
+"BRA_STATE_TOCAN",
+256
+],
+"0xe8614c": [
+"BRA_STATE_SAO",
+256
+],
+"0xe86374": [
+"BRA_STATE_GAUCHO",
+256
+],
+"0xe8659c": [
+"BRA_STATE_BAHIA",
+256
+],
+"0xe867c4": [
+"BRA_STATE_SANTA",
+256
+],
+"0xe869ec": [
+"BRA_STATE_PARA",
+256
+],
+"0xe86c14": [
+"BRA_STATE",
+256
+],
+"0xe86e5c": [
+"CRO_A1",
+256
+],
+"0xe87084": [
+"CRO_CUP",
+256
+],
+"0xe872ac": [
+"CRO_SUPER_CUP",
+256
+],
+"0xe874d4": [
+"CRO_THIRD_REGION",
+256
+],
+"0xe876fc": [
+"CRO_A2_REGION",
+256
+],
+"0xe87924": [
+"CRO_A2",
+256
+],
+"0xe87b5c": [
+"CRO_THIRD_NORTH",
+256
+],
+"0xe87d94": [
+"CRO_THIRD_SOUTH",
+256
+],
+"0xe87fdc": [
+"TUR_PRM",
+256
+],
+"0xe88214": [
+"TUR_CAT_A",
+256
+],
+"0xe8843c": [
+"TUR_CUP",
+256
+],
+"0xe88664": [
+"TUR_CAT_B_GROUP",
+256
+],
+"0xe8888c": [
+"TUR_CAT_B",
+256
+],
+"0xe88ae4": [
+"AUS_NSL",
+256
+],
+"0xe88d0c": [
+"AUS_CUP",
+256
+],
+"0xe88f34": [
+"AUS_CHAMP",
+256
+],
+"0xe8916c": [
+"NIR_PREM",
+256
+],
+"0xe89394": [
+"NIR_FIRST",
+256
+],
+"0xe895bc": [
+"NIR_SECOND",
+256
+],
+"0xe897e4": [
+"NIR_CUP",
+256
+],
+"0xe89a0c": [
+"NIR_LEAGUE_CUP",
+256
+],
+"0xe89c34": [
+"NIR_INTER_LEAGUE_CUP",
+256
+],
+"0xe89e5c": [
+"NIR_STEEL_CUP",
+256
+],
+"0xe8a084": [
+"NIR_ANTRIM_SHIELD",
+256
+],
+"0xe8a2bc": [
+"GRE_CUP",
+256
+],
+"0xe8a53c": [
+"GRE_PREM",
+256
+],
+"0xe8a764": [
+"GRE_SEC",
+256
+],
+"0xe8a98c": [
+"GRE_C_REGION",
+256
+],
+"0xe8abb4": [
+"GRE_C",
+256
+],
+"0xe8adfc": [
+"FRE_CHARITY_CUP",
+256
+],
+"0xe8b024": [
+"FRE_CUP",
+256
+],
+"0xe8b24c": [
+"FRE_FIRST",
+256
+],
+"0xe8b474": [
+"FRE_LIGUE_CUP",
+256
+],
+"0xe8b69c": [
+"FRE_NATIONAL",
+256
+],
+"0xe8b8c4": [
+"FRE_SECOND",
+256
+],
+"0xe8baec": [
+"FRE_CFA_REGION",
+256
+],
+"0xe8bd14": [
+"FRE_CFA",
+256
+],
+"0xe8bf5c": [
+"DAN_FIRST",
+256
+],
+"0xe8c184": [
+"DAN_PREM",
+256
+],
+"0xe8c3ac": [
+"DAN_SECOND",
+256
+],
+"0xe8c5d4": [
+"DAN_CUP",
+256
+],
+"0xe8c7fc": [
+"DAN_SUPER_CUP",
+256
+],
+"0xe8ca24": [
+"DAN_THIRD_GROUP",
+256
+],
+"0xe8cc4c": [
+"DAN_THIRD",
+256
+],
+"0xe8ce94": [
+"SWE_FIRST",
+256
+],
+"0xe8d0bc": [
+"SWE_PREM",
+256
+],
+"0xe8d2e4": [
+"SWE_THIRD_DIVISION",
+256
+],
+"0xe8d50c": [
+"SWE_SECOND_DIVISION",
+256
+],
+"0xe8d734": [
+"SWE_SECOND",
+256
+],
+"0xe8d96c": [
+"SWE_THIRD",
+256
+],
+"0xe8dba4": [
+"SWE_CUP",
+256
+],
+"0xe8dddc": [
+"HOL_FIRST",
+256
+],
+"0xe8e004": [
+"HOL_PREM",
+256
+],
+"0xe8e22c": [
+"HOL_SUPER_CUP",
+256
+],
+"0xe8e454": [
+"HOL_CUP",
+256
+],
+"0xe8e68c": [
+"ESP_FIRST",
+256
+],
+"0xe8e8b4": [
+"ESP_SECOND",
+256
+],
+"0xe8eadc": [
+"ESP_SUPER_CUP",
+256
+],
+"0xe8ed04": [
+"ESP_SECOND_B_GROUP",
+256
+],
+"0xe8ef2c": [
+"ESP_SECOND_B",
+256
+],
+"0xe8f194": [
+"ESP_CUP",
+256
+],
+"0xe8f3cc": [
+"CHN_FIRST_A",
+256
+],
+"0xe8f5f4": [
+"CHN_FIRST_B",
+256
+],
+"0xe8f81c": [
+"CHN_CUP",
+256
+],
+"0xe8fa44": [
+"CHN_SUPER_CUP",
+256
+],
+"0xe8fc6c": [
+"CHN_SUPER_LEAGUE_CUP",
+256
+],
+"0xe8fe94": [
+"CHN_SECOND_REGION",
+256
+],
+"0xe900bc": [
+"CHN_SECOND",
+256
+],
+"0xe90304": [
+"POR_CUP",
+256
+],
+"0xe9052c": [
+"POR_PRM",
+256
+],
+"0xe90754": [
+"POR_SECOND",
+256
+],
+"0xe9097c": [
+"POR_SUPER_CUP",
+256
+],
+"0xe90ba4": [
+"POR_SECOND_B_DIVISION",
+256
+],
+"0xe90dcc": [
+"POR_SECOND_B",
+256
+],
+"0xe91014": [
+"ARG_PREMIER",
+256
+],
+"0xe9123c": [
+"ARG_SECOND",
+256
+],
+"0xe91474": [
+"GER_CUP",
+256
+],
+"0xe9169c": [
+"GER_FIRST",
+256
+],
+"0xe918c4": [
+"GER_LEAGUE_CUP",
+256
+],
+"0xe91aec": [
+"GER_SECOND",
+256
+],
+"0xe91d14": [
+"GER_LOWER_DIVISIONS",
+256
+],
+"0xe91f3c": [
+"GER_REGIONAL_DIVISION",
+256
+],
+"0xe92164": [
+"GER_REGIONAL",
+256
+],
+"0xe9239c": [
+"GER_LOWER",
+256
+],
+"0xe925e4": [
+"RSA_CHARITY_CUP",
+256
+],
+"0xe9280c": [
+"RSA_CUP",
+256
+],
+"0xe92a34": [
+"RSA_FIRST",
+256
+],
+"0xe92c5c": [
+"RSA_PREM",
+256
+],
+"0xe92e84": [
+"RSA_SAFA_CUP",
+256
+],
+"0xe930ac": [
+"RSA_TOP8_CUP",
+256
+],
+"0xe932d4": [
+"RSA_VODA_CHALLENGE",
+256
+],
+"0xe9350c": [
+"KOR_SUPER_CUP",
+256
+],
+"0xe93734": [
+"KOR_FA_CUP",
+256
+],
+"0xe9395c": [
+"KOR_LEAGUE",
+256
+],
+"0xe93b84": [
+"KOR_LEAGUE_2",
+256
+],
+"0xe93dac": [
+"KOR_ALL_STARS",
+256
+],
+"0xe93fd4": [
+"KOR_LEAGUE_CUP",
+256
+],
+"0xe9420c": [
+"SCO_CHAL_CUP",
+256
+],
+"0xe94434": [
+"SCO_CUP",
+256
+],
+"0xe9465c": [
+"SCO_FIRST",
+256
+],
+"0xe94884": [
+"SCO_LEAGUE_CUP",
+256
+],
+"0xe94aac": [
+"SCO_PRM",
+256
+],
+"0xe94cd4": [
+"SCO_SECOND",
+256
+],
+"0xe94efc": [
+"SCO_THIRD",
+256
+],
+"0xe95134": [
+"FIN_CUP",
+256
+],
+"0xe9535c": [
+"FIN_FIRST",
+256
+],
+"0xe95584": [
+"FIN_PREM",
+256
+],
+"0xe957ac": [
+"FIN_SECOND_REGION",
+256
+],
+"0xe959d4": [
+"FIN_SECOND",
+256
+],
+"0xe95c1c": [
+"BEL_CUP",
+256
+],
+"0xe95e44": [
+"BEL_FIRST",
+256
+],
+"0xe9606c": [
+"BEL_SECOND",
+256
+],
+"0xe96294": [
+"BEL_SUPER_CUP",
+256
+],
+"0xe964bc": [
+"BEL_FOURTH_DIVISION",
+256
+],
+"0xe966e4": [
+"BEL_THIRD_REGION",
+256
+],
+"0xe9690c": [
+"BEL_FOURTH",
+256
+],
+"0xe96b44": [
+"BEL_THIRD",
+256
+],
+"0xe96d8c": [
+"USA_COMBINE",
+256
+],
+"0xe96fb4": [
+"USA_MLS",
+256
+],
+"0xe971dc": [
+"USA_OPEN_CUP",
+256
+],
+"0xe97404": [
+"USA_ALL_STARS",
+256
+],
+"0xe9773c": [
+"NOR_CUP",
+256
+],
+"0xe97964": [
+"NOR_FIRST",
+256
+],
+"0xe97b8c": [
+"NOR_PRM",
+256
+],
+"0xe97db4": [
+"NOR_SECOND_DIVISION",
+256
+],
+"0xe97fdc": [
+"NOR_SECOND",
+256
+],
+"0xe98224": [
+"NAM_CHAMPIONS_CUP",
+256
+],
+"0xe9845c": [
+"SAM_SUPER_CUP",
+256
+],
+"0xe98684": [
+"SAM_SUD_CUP",
+256
+],
+"0xe988ac": [
+"SAM_LIBER_CUP",
+256
+],
+"0xe98ae4": [
+"ITA_A",
+256
+],
+"0xe98d0c": [
+"ITA_B",
+256
+],
+"0xe98f34": [
+"ITA_C2_DIVISION",
+256
+],
+"0xe9915c": [
+"ITA_C_SUPER_CUP",
+256
+],
+"0xe99384": [
+"ITA_SUPER_CUP",
+256
+],
+"0xe995ac": [
+"ITA_D_DIVISION",
+256
+],
+"0xe997d4": [
+"ITA_C1_DIVISION",
+256
+],
+"0xe999fc": [
+"ITA_C1",
+256
+],
+"0xe99c34": [
+"ITA_C2",
+256
+],
+"0xe99e6c": [
+"ITA_CUP",
+256
+],
+"0xe9a094": [
+"ITA_C_CUP",
+256
+],
+"0xe9a2bc": [
+"ITA_D",
+256
+],
+"0xe9a504": [
+"ENG_CHARITY",
+256
+],
+"0xe9a72c": [
+"ENG_CONF",
+256
+],
+"0xe9a954": [
+"ENG_FA_CUP",
+256
+],
+"0xe9ab7c": [
+"ENG_FIRST",
+256
+],
+"0xe9ada4": [
+"ENG_LEAGUE_CUP",
+256
+],
+"0xe9afcc": [
+"ENG_VANS_TROPHY",
+256
+],
+"0xe9b1f4": [
+"ENG_FA_TROPHY",
+256
+],
+"0xe9b41c": [
+"ENG_PRM",
+256
+],
+"0xe9b644": [
+"ENG_SECOND",
+256
+],
+"0xe9b86c": [
+"ENG_THIRD",
+256
+],
+"0xe9ba94": [
+"ENG_REG_PRM_DIVISION",
+256
+],
+"0xe9bcbc": [
+"ENG_CONF2_REGION",
+256
+],
+"0xe9bee4": [
+"ENG_CONF2",
+256
+],
+"0xe9c11c": [
+"ENG_REG_PRM",
+256
+],
+"0xe9c364": [
+"ASI_CHAMPIONS_LEAGUE",
+256
+],
+"0xe9c58c": [
+"ASI_ASEAN_CLUB_CHAMP",
+256
+],
+"0xe9c7b4": [
+"ASI_EAST_CHAMP",
+256
+],
+"0xe9c9dc": [
+"ASI_AFC_CUP",
+256
+],
+"0xe9cc14": [
+"AFR_CHAMPIONS_LEAGUE",
+256
+],
+"0xe9ce3c": [
+"AFR_CUP_WINNERS_CUP",
+256
+],
+"0xe9d064": [
+"AFR_SUPER_CUP",
+256
+],
+"0xe9d314": [
+"OCE_CHAMPIONS_CUP",
+256
+],
+"0xe9d54c": [
+"WWCLUB_INTERCONTINENTAL_CUP",
+256
+],
+"0xe9d774": [
+"WWCLUB_WORLD_CHAMP_CUP",
+256
+],
+"0xe9d99c": [
+"WWCLUB_AFC_UEFA_CUP",
+256
+],
+"0xe9dbc4": [
+"INTER_AFRICA_NATIONS_QUAL",
+256
+],
+"0xe9ddec": [
+"INTER_AFRICA_NATIONS_CUP",
+256
+],
+"0xe9e014": [
+"INTER_EURO_CHAMP",
+256
+],
+"0xe9e23c": [
+"INTER_EURO_CHAMP_QUAL",
+256
+],
+"0xe9e464": [
+"INTER_U21_EURO_CHAMP",
+256
+],
+"0xe9e68c": [
+"INTER_U19_EURO_CHAMP",
+256
+],
+"0xe9e8b4": [
+"INTER_OCE_NATIONS_CUP",
+256
+],
+"0xe9eadc": [
+"INTER_GOLD_CUP",
+256
+],
+"0xe9ed04": [
+"INTER_ASIA_NATIONS_CUP",
+256
+],
+"0xe9ef2c": [
+"INTER_ASIA_NATIONS_QUAL",
+256
+],
+"0xe9f1ac": [
+"INTER_FIFA_CONFED",
+256
+],
+"0xe9f3d4": [
+"INTER_COPA_AMERICA",
+256
+],
+"0xe9f5fc": [
+"INTER_OLYMPICS",
+256
+],
+"0xe9f824": [
+"INTER_OLYMPICS_OCEANIA_QUAL",
+256
+],
+"0xe9fa4c": [
+"INTER_OLYMPICS_SOUTH_AMERICA_QUAL",
+256
+],
+"0xe9fc74": [
+"INTER_U20_SOUTH_AMERICA_CHAMP",
+256
+],
+"0xe9fe9c": [
+"INTER_AFC_OFC_CUP",
+256
+],
+"0xea00c4": [
+"INTER_U21_EURO_CHAMP_QUAL",
+256
+],
+"0xea02ec": [
+"INTER_U19_EURO_CHAMP_QUAL",
+256
+],
+"0xea0514": [
+"WC_CONCACAF",
+256
+],
+"0xea073c": [
+"WC_EUROPE",
+256
+],
+"0xea0964": [
+"WC_OCEANIA",
+256
+],
+"0xea0b8c": [
+"WC_SOUTH_AMERICA",
+256
+],
+"0xea0db4": [
+"WC_WORLD_CUP",
+256
+],
+"0xea0fdc": [
+"WC_ASIA",
+256
+],
+"0xea1204": [
+"WC_AFRICA",
+256
+],
+"0xea13e4": [
+"SUB_LEAGUE_STAGE",
+2048
+],
+"0xea15ac": [
+"FRIENDLY_CUP",
+256
+],
+"0xea17dc": [
+"FRIENDLY_LEAGUE",
+256
+],
+"0xea1a1c": [
+"CHILD_COMP",
+256
+],
+"0xea1c64": [
+"RESERVE_CUP",
+256
+],
+"0xea1e8c": [
+"RESERVE_CHILD_COMP",
+256
+],
+"0xea20b4": [
+"RESERVE_PARENT_COMP",
+256
+],
+"0xea22ec": [
+"FRIENDLY_ACTUAL_COMP",
+256
+],
+"0xcad5a0": [
+"?$ARRAY@PAVRELATIONSHIP@@D",
+16
+],
+"0xcadc24": [
+"?$STEP_ARRAY@PAVRELATIONSHIP@@D$09",
+16
+],
+"0xe27ff4": [
+"?$ARRAY@VPLAYER_RELATIONSHIPS@@D",
+16
+],
+"0xe2fba0": [
+"?$ARRAY@PAVRETIREMENT@@F",
+16
+],
+"0xe2fddc": [
+"?$STEP_ARRAY@PAVRETIREMENT@@F$0GE@",
+16
+],
+"0xe2fe70": [
+"?$BASE_DEL_ARRAY@PAVRETIREMENT@@F",
+16
+],
+"0xe30018": [
+"?$BASE_DEL_STEP_ARRAY@PAVRETIREMENT@@F$0GE@",
+16
+],
+"0xe300e8": [
+"?$DEL_STEP_ARRAY@PAVRETIREMENT@@F$0GE@",
+16
+],
+"0xe4ccac": [
+"?$ARRAY@VRELATIONSHIP@@D",
+16
+],
+"0xe61688": [
+"?$STEP_ARRAY@PAVRELATIONSHIP@@D$04",
+16
+],
+"0xea3e68": [
+"?$ARRAY@PAVMATCH_RELATIONSHIP@@F",
+16
+],
+"0xea4000": [
+"?$BASE_DEL_ARRAY@PAVMATCH_RELATIONSHIP@@F",
+16
+],
+"0xea4034": [
+"?$DEL_ARRAY@PAVMATCH_RELATIONSHIP@@F",
+16
+],
+"0xe4df2c": [
+"NON_PLAYING_DATA",
+256
+],
+"0xe4aa6c": [
+"?$ARRAY@PAVCONTRACT@@D",
+16
+],
+"0xe4b57c": [
+"?$DEL_ARRAY@PAVCONTRACT@@D",
+16
+],
+"0xcad750": [
+"SHORT_FIXTURE",
+256
+],
+"0xe1f1e4": [
+"RESULT",
+256
+],
+"0xe1fab4": [
+"FIXTURE",
+256
+],
+"0xe2f90c": [
+"FIXTURES_TO_PLAY",
+256
+],
+"0xe6e10c": [
+"FIXTURE_GROUP",
+256
+],
+"0xe6f1d8": [
+"LEAGUE_FIXTURE_LIST",
+256
+],
+"0xe207a4": [
+"CLUB_MANAGER_DETAILS",
+256
+],
+"0xe30184": [
+"REGENERATION_MANAGER",
+256
+]
+}

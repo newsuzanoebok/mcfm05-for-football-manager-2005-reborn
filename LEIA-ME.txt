@@ -1,0 +1,39 @@
+MCFM05 Reborn v1.0 FINAL — editor em tempo real para Football Manager 2005
+===============================================================
+
+O QUE É
+  Edita o jogo ENQUANTO ele está aberto (memória), sem mexer nos arquivos do save.
+  Nada é alterado sem clicar em "Salvar no jogo". Salve o save antes de editar.
+
+REQUISITOS
+  - Windows (testado no Windows 10/11, 64 bits).
+  - Football Manager 2005 versão 5.0.2 (a que mostra "5.0.2" na tela inicial), no-CD/"win10fix".
+    Foi mapeado nessa versão; em outra versão (5.0.0, 5.0.5) muita coisa pode não funcionar.
+  - Python 3 (3.8 ou mais novo), 32 ou 64 bits, com Tkinter (vem por padrão no instalador do python.org).
+    Instale de https://www.python.org/downloads/ e marque "Add python.exe to PATH".
+  - Permissão de administrador (o programa pede sozinho ao abrir).
+
+COMO USAR
+  1. Descompacte a pasta em qualquer lugar (ex.: D:\Apps\MCFM05Reborn).
+  2. Abra o FM 2005 e carregue o save.
+  3. Dê dois cliques em "MCFM05 Reborn.bat" (aceite o pedido de administrador).
+  4. Clique em "Carregar do jogo". Edite, depois "Salvar no jogo".
+  Idioma: canto superior direito (inglês por padrão; português e espanhol). Reinicie o programa depois de trocar.
+
+ARQUIVOS QUE O PROGRAMA CRIA NA PRÓPRIA PASTA
+  config.json (idioma), janela.json (tamanho da janela), favoritos.json, congelados.json, backup de atributos, erro.log.
+
+PROBLEMAS COMUNS
+  - "fm2005.exe não está aberto": abra o jogo e carregue o save antes de "Carregar do jogo".
+  - Nada acontece ao abrir o .bat: Python não instalado ou sem "Add to PATH". Teste no cmd: python --version
+  - A janela não abre e existe erro.log na pasta: mande o erro.log para quem mantém o programa.
+  - Valores 255 em campos 0-20 corrompem o jogo: use "sem limites" só até 127.
+  - Depois de marcar "afastado do futebol internacional" ou de uma transferência que avisou "lista realocada":
+    salve o jogo e recarregue o save antes de continuar.
+
+VERSÃO OFICIAL
+  Criado por g0ldenboy & Claude AI. O botão "created by..." mostra a versão e a impressão digital SHA-256 dos arquivos;
+  compare com a publicada pelo autor. Qualquer cópia modificada não é a oficial.
+
+AVISO
+  Use por sua conta e risco. Mantenha uma cópia do save antes de editar.
