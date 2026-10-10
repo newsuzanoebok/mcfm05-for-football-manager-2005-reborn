@@ -1,0 +1,9 @@
+   config.json
+   janela.json
+   favoritos.json
+   congelados.json
+   mcfm_backup.json
+   erro.log
+   foto.zip
+   __pycache__/
+   *.pyc
